@@ -1,0 +1,616 @@
+fileFormatVersion: 2
+guid: 430b0c3622e1848eaa5cd66193bac2ed
+timeCreated: 1510533899
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: h_hiding
+    21300002: hiding
+    21300004: d_hiding
+    21300006: i_hiding
+    21300008: n_hiding
+    21300010: g_hiding
+    21300012: race_r
+    21300014: race_a
+    21300016: race_c
+    21300018: race_e
+    21300020: race
+    21300022: wave
+    21300024: soda_s
+    21300026: soda_o
+    21300028: soda_d
+    21300030: soda_a
+    21300032: finish
+    21300034: tower_T
+    21300036: tower_o
+    21300038: tower_W
+    21300040: tower_e
+    21300042: tower_r
+    21300044: spriteSheet_0
+    21300046: spriteSheet_1
+    21300048: spriteSheet_2
+    21300050: spriteSheet_3
+    21300052: ClickToStart
+    21300054: spriteSheet_5
+    21300056: spriteSheet_6
+    21300058: spriteSheet_7
+    21300060: spriteSheet_8
+    21300062: spriteSheet_9
+    21300064: spriteSheet_10
+    21300066: spriteSheet_11
+    21300068: spriteSheet_12
+    21300070: spriteSheet_13
+    21300072: spriteSheet_14
+    21300074: spriteSheet_15
+    21300076: spriteSheet_16
+    21300078: spriteSheet_17
+    21300080: spriteSheet_18
+    21300082: thank_1
+    21300084: thank_5
+    21300086: thank_9
+    21300088: thank_13
+    21300090: thank_6
+    21300092: thank_8
+    21300094: thank_11
+    21300096: thank_12
+    21300098: thank_14
+    21300100: thank_16
+    21300102: thank_17
+    21300104: thank_19
+    21300106: thank_22
+    21300108: thank_23
+    21300110: thank_25
+    21300112: thank_26
+    21300114: thank_28
+    21300116: thank_32
+    21300118: thank_35
+    21300120: thank_39
+    21300122: thank_45
+    21300124: spriteSheet_41
+    21300126: spriteSheet_42
+    21300128: spriteSheet_43
+    21300130: spriteSheet_44
+    21300132: spriteSheet_45
+    21300134: spriteSheet_46
+    21300136: spriteSheet_47
+    21300138: spriteSheet_48
+    21300140: spriteSheet_49
+    21300142: spriteSheet_50
+    21300144: spriteSheet_51
+    21300146: spriteSheet_52
+    21300148: thank_2
+    21300150: thank_3
+    21300152: thank_4
+    21300154: thank_7
+    21300156: thank_10
+    21300158: thank_15
+    21300160: thank_18
+    21300162: thank_20
+    21300164: thank_21
+    21300166: thank_24
+    21300168: thank_27
+    21300170: thank_29
+    21300172: thank_30
+    21300174: thank_31
+    21300176: thank_33
+    21300178: thank_34
+    21300180: thank_37
+    21300182: thank_38
+    21300184: thank_40
+    21300186: thank_41
+    21300188: thank_42
+    21300190: thank_43
+    21300192: thank_44
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: h_hiding
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3293
+        width: 206
+        height: 357
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hiding
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3174
+        width: 1224
+        height: 476
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: d_hiding
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 3284
+        width: 219
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i_hiding
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 3290
+        width: 56
+        height: 361
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: n_hiding
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 3289
+        width: 216
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: g_hiding
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 3176
+        width: 224
+        height: 361
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: race_r
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2895
+        width: 121
+        height: 248
+      alignment: 9
+      pivot: {x: 0.47607204, y: 0.4775962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: race_a
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2891
+        width: 211
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: race_c
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2890
+        width: 210
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: race_e
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 2890
+        width: 208
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: race
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2891
+        width: 843
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wave
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2631
+        width: 3482
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: soda_s
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 3416
+        width: 264
+        height: 351
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: soda_o
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 3416
+        width: 239
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: soda_d
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 3415
+        width: 230
+        height: 371
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: soda_a
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 3416
+        width: 228
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: finish
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 3099
+        width: 743
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tower_T
+      rect:
+        serializedVersion: 2
+        x: 3665
+        y: 2441
+        width: 271
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tower_o
+      rect:
+        serializedVersion: 2
+        x: 3679
+        y: 2848
+        width: 245
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tower_W
+      rect:
+        serializedVersion: 2
+        x: 3633
+        y: 3143
+        width: 338
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tower_e
+      rect:
+        serializedVersion: 2
+        x: 3691
+        y: 3447
+        width: 220
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tower_r
+      rect:
+        serializedVersion: 2
+        x: 3778
+        y: 3750
+        width: 134
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3669
+        width: 83
+        height: 427
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 4039
+        width: 86
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 3661
+        width: 185
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 3669
+        width: 86
+        height: 427
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 3669
+        width: 89
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 3661
+        width: 272
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 3664
+        width: 170
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 3661
+        width: 281
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ClickToStart
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 3896
+        width: 295
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
