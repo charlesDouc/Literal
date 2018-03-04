@@ -12,7 +12,7 @@ public class Camera_Race : MonoBehaviour {
 	public GameObject gameMaster;
 	public Color nextBG;
 
-	public 
+	public GameObject thePole;
 
 	// --------------------------------------------
 	// Use this for initialization
@@ -35,6 +35,8 @@ public class Camera_Race : MonoBehaviour {
 			transform.position = currentPos;
 		} else if (!readyForNext) {
 			followLiteral = true;
+			Pole_Controller poleScript = thePole.GetComponent<Pole_Controller>();
+			poleScript.camReady();
 		}
 
 		// Avtivate the camera following
